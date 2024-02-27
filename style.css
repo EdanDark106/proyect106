@@ -1,0 +1,27 @@
+*
+{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin: 30px;
+}
+body
+{
+    background-color: rgb(56, 129, 189);
+}
+h1
+{
+    padding: 15px;
+    border: 10px;
+    border-style: dotted;
+    color: aqua;
+    text-align: center;
+    text-decoration: overline;
+    text-transform: uppercase;
+}
+p{color: blueviolet;text-align: justify;border-radius: 30px;border-style: solid;padding: 15px;
+border-color: rgb(58, 81, 216);
+background-color: chartreuse;
+}
+img{
+    width: 37%; height: 37%;
+    
+}
